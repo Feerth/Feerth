@@ -35,9 +35,3 @@ Soy un futuro ingeniero de sistemas, apasionado por la tecnología. Actualmente 
 </p>
 
 ---
-
-### 📊 Mis Estadísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Feerth&show_icons=true&theme=dracula&hide_border=true" alt="Stats de Fernando" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feerth&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes de Fernando" />
-</p>
