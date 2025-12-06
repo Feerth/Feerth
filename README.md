@@ -24,6 +24,7 @@ Soy un futuro ingeniero de sistemas, apasionado por la tecnología. Actualmente 
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 **Herramientas, IDEs & SO:**
@@ -35,3 +36,4 @@ Soy un futuro ingeniero de sistemas, apasionado por la tecnología. Actualmente 
 </p>
 
 ---
+
