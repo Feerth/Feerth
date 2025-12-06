@@ -5,7 +5,7 @@ Soy un futuro ingeniero de sistemas, apasionado por la tecnología. Actualmente 
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Conocimientos
 
 **Lenguajes:**
 <p>
