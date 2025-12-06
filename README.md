@@ -3,7 +3,15 @@
 
 Soy un futuro ingeniero de sistemas, apasionado por la tecnología. Actualmente aprendiendo sobre el desarrollo backend.
 
----
+<p align="left">
+  <a href="https://www.linkedin.com/in/fernando-soto-andrade-5724213a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:fsoto3137 @GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</p>
+
 
 ### 🛠️ Conocimientos
 
